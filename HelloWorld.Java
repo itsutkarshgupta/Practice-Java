@@ -2,7 +2,7 @@ import java.utils;
 
 public class Hello{
 
-    public static void main(){
+    public static vod main(){
 
         println("Hello World!");
     }
