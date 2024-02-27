@@ -1,6 +1,6 @@
 import java.utils;
 
-public class Hello{
+public class Hell{
 
     public static vod main(){
 
